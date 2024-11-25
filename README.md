@@ -11,3 +11,9 @@ Além do que foi mostrado na foto, foi utilizado o comando sudo systemctl daemon
 O código utilizado após o reboot da Raspberry pi foi o código ![blink_led.py](blink_led.py) e pode ser visto em ![Vídeo de funcionamento incial](img/parte1_start.mp4). Já o código de parada é o ![blink_stop.py](blink_stop.py) e pode ser visto na foto a seguir.
 
 ![Foto Terminal](img/parte1_stop.jpg)
+
+## Parte 2
+
+Para a parte 2, foi criado um repositório para os arquivos citados anteriormente e foi mandado para o github usando os comandos "git clone" "git add .", "git commit -m "mensagem"" e "git push". Além disso, foi criado um token no github para que seja possível fazer o comando "git push". Por fim, foi incluído o ![git log](historico_git.txt) e foi mandado junto para o repositório. Vale ressaltar que o próprio envio do histórico adicionou uma mudança no git log e este pode ser visto completo na imagem a seguir.
+
+![Foto Git Log](img/gitlog.jpg)
