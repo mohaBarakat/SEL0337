@@ -1,0 +1,11 @@
+commit 752e1736c5ad795f8f8a33c91d36214f895f9594
+Author: mohaBarakat <mohamadbarakat2003@usp.br>
+Date:   Mon Nov 25 11:40:21 2024 -0300
+
+    Adicionando arquivos da Pratica 5
+
+commit 0919971641ce67a382641444bd71d5614fc96d89
+Author: mohaBarakat <166164023+mohaBarakat@users.noreply.github.com>
+Date:   Mon Nov 25 11:30:34 2024 -0300
+
+    Initial commit
